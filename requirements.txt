@@ -141,7 +141,7 @@ deprecated==1.2.14
     # via dlt
 dj-database-url==0.5.0
     # via -r requirements.in
-django==3.2.19
+django==3.2.23
     # via
     #   -r requirements.in
     #   django-axes
